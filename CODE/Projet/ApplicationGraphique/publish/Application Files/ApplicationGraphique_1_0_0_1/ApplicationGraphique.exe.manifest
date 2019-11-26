@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ApplicationGraphique.exe" version="1.0.0.1" publicKeyToken="79752c9c3c7dd7be" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ApplicationGraphique" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ApplicationGraphique.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Options du manifeste de contrôle de compte d’utilisateur (UAC)
+          Si vous voulez changer le niveau de contrôle de compte d’utilisateur Windows, remplacez le 
+          nœud requestedExecutionLevel par l’un des nœuds suivants.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si vous voulez utiliser la virtualisation de fichiers système et du Registre pour la 
+         compatibilité descendante, supprimez le nœud requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ApplicationGraphique.exe" size="34282480">
+      <assemblyIdentity name="ApplicationGraphique" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>kuvArxpzOm2Bydvpotc+jp4EHShU7ifCkCX5HRP7EQc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Galerie.dll" size="10752">
+      <assemblyIdentity name="Galerie" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Qn5Ap2bn/fUU48jzJvcJAIRi6Kk9EHm2vR+3MgLOItQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ApplicationGraphique.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ORDINATEUR-CLEM\Clément" issuerKeyHash="da6dc596641300fac22504c8a18d31cb7f09ca6b" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ciMNKOVFHQYogkOXySnIRdUCZEuNWDb82tfTSd3RF0Y=</DigestValue></Reference></SignedInfo><SignatureValue>zH8GlEs+20KsEQp32cN71+yW9tDj6Add3VVIH8oIPCR/bmg0AWvCpM23I5vXGNesGx1/Klwxix1AjDuoiXlC9JN6EyykE7CbzyTf5vY1xA2IArJBzwruIAAtmAbGkRSOoh7Uaae4pb3xR4MucoVHOsshqwKc5wvKhDX+mXFzGkc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>762whB02la7dk1b4B11ms+UiP6zztRlL/V9ZxmKlW7pooDmyU6Snm5nQNMcyRHByIEHEHoei9+ys5e7eG+79WkzfG3IOUYDLMx+Imi//tpWxNk9+lGvl/uIHtrySxwe9BvoFrByDGYETULMS3bapOYzfazZFIlJW2y4z5Z6DOoU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4617d1dd49d3d7dafc36588d4b6402d545c829c997438228061d45e5280d2372" Description="" Url=""><as:assemblyIdentity name="ApplicationGraphique.exe" version="1.0.0.1" publicKeyToken="79752c9c3c7dd7be" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ORDINATEUR-CLEM\Clément</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>XG1xDcS2D42QiybyGfC/6WbQmCD7gTnXaFC6+kCYvco=</DigestValue></Reference></SignedInfo><SignatureValue>R9OoDktzeZIMerf1P1bRUkIyfpbTeesckk9QgfbTggMfaea7OuDfwfmLF6ldRxEwPE2O8kz7cqlWU98+C+qYBGIQXGAAJKF6UrS9X+YeavwPQ46fhRNJ/R+/aDRluy7sJKnjaC//Uq110qCzilJuKFvMKNI3wauoZAJvMBeB7Go=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>762whB02la7dk1b4B11ms+UiP6zztRlL/V9ZxmKlW7pooDmyU6Snm5nQNMcyRHByIEHEHoei9+ys5e7eG+79WkzfG3IOUYDLMx+Imi//tpWxNk9+lGvl/uIHtrySxwe9BvoFrByDGYETULMS3bapOYzfazZFIlJW2y4z5Z6DOoU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB9TCCAV6gAwIBAgIQUxD13/dhy5VI3fnQCybDIzANBgkqhkiG9w0BAQsFADA5MTcwNQYDVQQDHi4ATwBSAEQASQBOAEEAVABFAFUAUgAtAEMATABFAE0AXABDAGwA6QBtAGUAbgB0MB4XDTE5MDYxMTE5MjAwNFoXDTIwMDYxMTAxMjAwNFowOTE3MDUGA1UEAx4uAE8AUgBEAEkATgBBAFQARQBVAFIALQBDAEwARQBNAFwAQwBsAOkAbQBlAG4AdDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA762whB02la7dk1b4B11ms+UiP6zztRlL/V9ZxmKlW7pooDmyU6Snm5nQNMcyRHByIEHEHoei9+ys5e7eG+79WkzfG3IOUYDLMx+Imi//tpWxNk9+lGvl/uIHtrySxwe9BvoFrByDGYETULMS3bapOYzfazZFIlJW2y4z5Z6DOoUCAwEAATANBgkqhkiG9w0BAQsFAAOBgQDH0MA4WwSYYeFw+uOA0cRLQ5ibfLcXmZ8hjyVLAn/ycpcGoqk5k47hWm+n9nf5U3QG2qmIQ6dCP3q2h2Zp5qIsT6WRSF+DYDG4uFdT8XUHEvT1iZeLUzBQAwLP+MyPiHYNQZmBUTonTzvqg1Ogc1D10PqgZSWxTwhSPYPlBxAnEA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

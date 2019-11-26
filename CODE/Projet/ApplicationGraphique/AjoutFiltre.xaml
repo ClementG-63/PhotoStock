@@ -1,0 +1,27 @@
+﻿<Window x:Class="ApplicationGraphique.AjoutFiltre"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ApplicationGraphique"
+        mc:Ignorable="d"
+        Title="AjoutFiltre" Height="200" Width="400" Background="#FF272626">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Nom du Filtre à ajouter" Foreground="White" Grid.ColumnSpan="2" FontSize="30" TextAlignment="Center" Margin="0 20 0 0" FontFamily="Roboto Th"/>
+        <TextBox GotFocus="EventGotFocusTextBox_GotFocus" Name="textbox1" FontSize="25" Text="Nom du filtre ici" Grid.Row="1" Grid.ColumnSpan="2" Height="40" Margin="30 20 30 0" FontFamily="Roboto Th"/>
+
+        <Button Grid.Column="1" Grid.Row="2" Margin="15 15 15 15" Background="DarkRed" Content="Annuler" Foreground="White" FontSize="15" BorderBrush="White" BorderThickness="2" Click="Button_Click_Annuler"/>
+        <Button Grid.Column="0" Grid.Row="2" Margin="15 15 15 15" Background="ForestGreen" Content="Valider" Foreground="White" FontSize="15" BorderBrush="White" BorderThickness="2" Click="Button_Click_Valider"/>
+    </Grid>
+</Window>

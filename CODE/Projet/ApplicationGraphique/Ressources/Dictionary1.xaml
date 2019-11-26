@@ -1,0 +1,8 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:ApplicationGraphique">
+    <Style x:Key="CustomFont">
+        <Setter Property="TextBlock.FontFamily"
+                    Value="Font/#Roboto Th.ttf"/>
+    </Style>
+</ResourceDictionary>

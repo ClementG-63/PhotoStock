@@ -1,0 +1,92 @@
+E:\Tout et NAWAK\PROJETCs\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe.config
+E:\Tout et NAWAK\PROJETCs\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe
+E:\Tout et NAWAK\PROJETCs\Projet\ConsoleMain\bin\Debug\ConsoleMain.pdb
+E:\Tout et NAWAK\PROJETCs\Projet\ConsoleMain\bin\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJETCs\Projet\ConsoleMain\bin\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJETCs\Projet\ConsoleMain\obj\Debug\ConsoleMain.csprojAssemblyReference.cache
+E:\Tout et NAWAK\PROJETCs\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CoreCompileInputs.cache
+E:\Tout et NAWAK\PROJETCs\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CopyComplete
+E:\Tout et NAWAK\PROJETCs\Projet\ConsoleMain\obj\Debug\ConsoleMain.exe
+E:\Tout et NAWAK\PROJETCs\Projet\ConsoleMain\obj\Debug\ConsoleMain.pdb
+C:\Users\clguyon\Documents\Cs\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe.config
+C:\Users\clguyon\Documents\Cs\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe
+C:\Users\clguyon\Documents\Cs\Projet\ConsoleMain\bin\Debug\ConsoleMain.pdb
+C:\Users\clguyon\Documents\Cs\Projet\ConsoleMain\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Cs\Projet\ConsoleMain\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Cs\Projet\ConsoleMain\obj\Debug\ConsoleMain.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Cs\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Cs\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CopyComplete
+C:\Users\clguyon\Documents\Cs\Projet\ConsoleMain\obj\Debug\ConsoleMain.exe
+C:\Users\clguyon\Documents\Cs\Projet\ConsoleMain\obj\Debug\ConsoleMain.pdb
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe.config
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ConsoleMain\bin\Debug\ConsoleMain.pdb
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ConsoleMain\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ConsoleMain\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ConsoleMain\obj\Debug\ConsoleMain.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CopyComplete
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ConsoleMain\obj\Debug\ConsoleMain.exe
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ConsoleMain\obj\Debug\ConsoleMain.pdb
+C:\Users\clguyon\Documents\Projet\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe.config
+C:\Users\clguyon\Documents\Projet\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe
+C:\Users\clguyon\Documents\Projet\Projet\ConsoleMain\bin\Debug\ConsoleMain.pdb
+C:\Users\clguyon\Documents\Projet\Projet\ConsoleMain\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Projet\Projet\ConsoleMain\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Projet\Projet\ConsoleMain\obj\Debug\ConsoleMain.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Projet\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Projet\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CopyComplete
+C:\Users\clguyon\Documents\Projet\Projet\ConsoleMain\obj\Debug\ConsoleMain.exe
+C:\Users\clguyon\Documents\Projet\Projet\ConsoleMain\obj\Debug\ConsoleMain.pdb
+C:\Users\clguyon\Documents\Proje\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe.config
+C:\Users\clguyon\Documents\Proje\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe
+C:\Users\clguyon\Documents\Proje\Projet\ConsoleMain\bin\Debug\ConsoleMain.pdb
+C:\Users\clguyon\Documents\Proje\Projet\ConsoleMain\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Proje\Projet\ConsoleMain\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Proje\Projet\ConsoleMain\obj\Debug\ConsoleMain.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Proje\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Proje\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CopyComplete
+C:\Users\clguyon\Documents\Proje\Projet\ConsoleMain\obj\Debug\ConsoleMain.exe
+C:\Users\clguyon\Documents\Proje\Projet\ConsoleMain\obj\Debug\ConsoleMain.pdb
+C:\Users\clguyon\Documents\Pro\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe.config
+C:\Users\clguyon\Documents\Pro\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe
+C:\Users\clguyon\Documents\Pro\Projet\ConsoleMain\bin\Debug\ConsoleMain.pdb
+C:\Users\clguyon\Documents\Pro\Projet\ConsoleMain\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Pro\Projet\ConsoleMain\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Pro\Projet\ConsoleMain\obj\Debug\ConsoleMain.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Pro\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Pro\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CopyComplete
+C:\Users\clguyon\Documents\Pro\Projet\ConsoleMain\obj\Debug\ConsoleMain.exe
+C:\Users\clguyon\Documents\Pro\Projet\ConsoleMain\obj\Debug\ConsoleMain.pdb
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe.config
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ConsoleMain\bin\Debug\ConsoleMain.pdb
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ConsoleMain\bin\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ConsoleMain\bin\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ConsoleMain\obj\Debug\ConsoleMain.csprojAssemblyReference.cache
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CoreCompileInputs.cache
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CopyComplete
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ConsoleMain\obj\Debug\ConsoleMain.exe
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ConsoleMain\obj\Debug\ConsoleMain.pdb
+C:\Users\clguyon\Documents\Proj\Projet\ConsoleMain\obj\Debug\ConsoleMain.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Proj\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\checout\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe.config
+C:\Users\clguyon\Documents\checout\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe
+C:\Users\clguyon\Documents\checout\Projet\ConsoleMain\bin\Debug\ConsoleMain.pdb
+C:\Users\clguyon\Documents\checout\Projet\ConsoleMain\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\checout\Projet\ConsoleMain\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\checout\Projet\ConsoleMain\obj\Debug\ConsoleMain.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\checout\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\checout\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CopyComplete
+C:\Users\clguyon\Documents\checout\Projet\ConsoleMain\obj\Debug\ConsoleMain.exe
+C:\Users\clguyon\Documents\checout\Projet\ConsoleMain\obj\Debug\ConsoleMain.pdb
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe.config
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ConsoleMain\bin\Debug\ConsoleMain.exe
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ConsoleMain\bin\Debug\ConsoleMain.pdb
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ConsoleMain\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ConsoleMain\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ConsoleMain\obj\Debug\ConsoleMain.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ConsoleMain\obj\Debug\ConsoleMain.csproj.CopyComplete
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ConsoleMain\obj\Debug\ConsoleMain.exe
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ConsoleMain\obj\Debug\ConsoleMain.pdb

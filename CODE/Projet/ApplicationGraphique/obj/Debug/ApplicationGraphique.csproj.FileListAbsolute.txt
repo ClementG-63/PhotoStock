@@ -1,0 +1,980 @@
+U:\C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+U:\C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe.config
+U:\C#\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+U:\C#\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+U:\C#\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+U:\C#\Projet\ApplicationGraphique\obj\Debug\Guides.g.cs
+U:\C#\Projet\ApplicationGraphique\obj\Debug\MainWindow.g.cs
+U:\C#\Projet\ApplicationGraphique\obj\Debug\Guide-Administrateur.g.cs
+U:\C#\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+U:\C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+U:\C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+U:\C#\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+U:\C#\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+U:\C#\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+U:\C#\Projet\ApplicationGraphique\bin\Debug\Microsoft.Win32.Primitives.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\netstandard.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.AppContext.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Collections.Concurrent.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Collections.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Collections.NonGeneric.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Collections.Specialized.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.ComponentModel.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.ComponentModel.Primitives.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.ComponentModel.TypeConverter.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Console.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Data.Common.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.Contracts.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.Debug.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.Process.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.StackTrace.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.Tools.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.TraceSource.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.Tracing.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Drawing.Primitives.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Dynamic.Runtime.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Globalization.Calendars.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Globalization.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Globalization.Extensions.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.IO.Compression.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.IO.Compression.ZipFile.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.IO.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.IO.FileSystem.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.IO.FileSystem.Primitives.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.IO.FileSystem.Watcher.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.IO.IsolatedStorage.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.IO.MemoryMappedFiles.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.IO.Pipes.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Linq.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Linq.Expressions.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Linq.Parallel.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Linq.Queryable.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Net.Http.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Net.NameResolution.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Net.NetworkInformation.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Net.Ping.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Net.Primitives.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Net.Requests.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Net.Security.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Net.Sockets.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Net.WebHeaderCollection.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Net.WebSockets.Client.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Net.WebSockets.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.ObjectModel.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Reflection.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Reflection.Extensions.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Reflection.Primitives.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Resources.Reader.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Resources.ResourceManager.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Resources.Writer.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.Extensions.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.Handles.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.InteropServices.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.Numerics.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.Serialization.Formatters.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.Serialization.Json.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.Serialization.Primitives.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.Serialization.Xml.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Security.Claims.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Security.Cryptography.Algorithms.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Security.Cryptography.Csp.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Security.Cryptography.Encoding.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Security.Cryptography.Primitives.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Security.Principal.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Security.SecureString.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Text.Encoding.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Text.Encoding.Extensions.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Text.RegularExpressions.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Threading.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Threading.Overlapped.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Threading.Tasks.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Threading.Tasks.Parallel.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Threading.Thread.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Threading.ThreadPool.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Threading.Timer.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.ValueTuple.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Xml.ReaderWriter.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Xml.XDocument.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Xml.XmlDocument.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Xml.XmlSerializer.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Xml.XPath.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\System.Xml.XPath.XDocument.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\Guides.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\stub.dll
+U:\C#\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+U:\C#\Projet\ApplicationGraphique\bin\Debug\stub.pdb
+U:\C#\Projet\ApplicationGraphique\bin\Debug\Guides.pdb
+U:\C#\Projet\ApplicationGraphique\obj\Debug\App.baml
+U:\C#\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+U:\C#\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+U:\C#\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+U:\C#\Projet\ApplicationGraphique\obj\Debug\Guides.baml
+U:\C#\Projet\ApplicationGraphique\obj\Debug\MainWindow.baml
+U:\C#\Projet\ApplicationGraphique\obj\Debug\Guide-Administrateur.baml
+U:\C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+U:\C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+U:\C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+U:\C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+U:\C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+U:\C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+U:\C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe.config
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\DeleteFiltre.g.cs
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\Guides.g.cs
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\MainWindow.g.cs
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\Guide_Administrateur.g.cs
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\netstandard.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.AppContext.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Collections.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Collections.Specialized.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.ComponentModel.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Console.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Data.Common.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Globalization.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.IO.Compression.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.IO.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.IO.FileSystem.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.IO.Pipes.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Linq.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Linq.Expressions.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Linq.Parallel.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Linq.Queryable.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Net.Http.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Net.NameResolution.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Net.Ping.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Net.Primitives.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Net.Requests.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Net.Security.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Net.Sockets.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Net.WebSockets.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.ObjectModel.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Reflection.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Resources.Reader.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Resources.Writer.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.Handles.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Security.Claims.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Security.Principal.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Security.SecureString.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Text.Encoding.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Threading.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Threading.Tasks.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Threading.Thread.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Threading.Timer.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.ValueTuple.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Xml.XDocument.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Xml.XPath.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\Guides.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\stub.dll
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\stub.pdb
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\bin\Debug\Guides.pdb
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\App.baml
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\DeleteFiltre.baml
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\Guides.baml
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\MainWindow.baml
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\Guide_Administrateur.baml
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+C:\Users\guyon\Desktop\Projet C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\App.baml
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\DeleteFiltre.g.cs
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\MainWindow.g.cs
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\App.baml
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\DeleteFiltre.baml
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\MainWindow.baml
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\DeleteFiltre.g.cs
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\MainWindow.g.cs
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\App.baml
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\DeleteFiltre.baml
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\MainWindow.baml
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+E:\Tout et NAWAK\PROJET C#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\DeleteFiltre.g.cs
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\MainWindow.g.cs
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\App.baml
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\DeleteFiltre.baml
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\MainWindow.baml
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+E:\Tout et NAWAK\PROJETC#\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\DeleteFiltre.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\MainWindow.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\App.baml
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\DeleteFiltre.baml
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\MainWindow.baml
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\DeleteFiltre.g.cs
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\MainWindow.g.cs
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\App.baml
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\DeleteFiltre.baml
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\MainWindow.baml
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Cs\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\InformationsPhoto.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\InformationsPhoto.baml
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.baml
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\DeleteFiltre.g.cs
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\InformationsPhoto.g.cs
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\MainWindow.g.cs
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.g.cs
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\App.baml
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\DeleteFiltre.baml
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\InformationsPhoto.baml
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\MainWindow.baml
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.baml
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Projectto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.g.cs
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\MainWindow.g.cs
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.g.cs
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\App.baml
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.baml
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\MainWindow.baml
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.baml
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.baml
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.g.cs
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.g.cs
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.g.cs
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\App.baml
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.baml
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.baml
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.baml
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.g.cs
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.g.cs
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.g.cs
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\App.baml
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.baml
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.baml
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\zeafez\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.baml
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.g.cs
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.g.cs
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.g.cs
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\App.baml
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.baml
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.baml
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\aa\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.baml
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.g.cs
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.g.cs
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.g.cs
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\App.baml
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.baml
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.baml
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Projet\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.baml
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.g.cs
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.g.cs
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.g.cs
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\App.baml
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.baml
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.baml
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Proje\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.baml
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.g.cs
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.g.cs
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.g.cs
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\App.baml
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.baml
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.baml
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Pro\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\App.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.baml
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.g.cs
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.g.cs
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.g.cs
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\App.baml
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary1.baml
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary2.baml
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary3.baml
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary4.baml
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.baml
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.baml
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\Proj\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.baml
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.g.cs
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.g.cs
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.g.cs
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\App.baml
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary1.baml
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary2.baml
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary3.baml
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary4.baml
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.baml
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWIndow.baml
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\checout\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary1.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary2.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary3.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary4.baml
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary3.baml
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary4.baml
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.baml
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.g.cs
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.g.cs
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWindow.g.cs
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\App.baml
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary1.baml
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary2.baml
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.baml
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWindow.baml
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+C:\Users\clguyon\Documents\projicto\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary3.baml
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary4.baml
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.baml
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.g.cs
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.g.cs
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWindow.g.cs
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary1.baml
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary2.baml
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.baml
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWindow.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.manifest
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.application
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe.manifest
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.application
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.manifest
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.application
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary3.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary4.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWindow.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\App.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary1.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary2.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWindow.baml
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe.manifest
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.application
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\bin\Debug\Data.dll
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\ApplicationGraphique\bin\Debug\Data.pdb
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.config
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe.manifest
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.application
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.exe
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\bin\Debug\ApplicationGraphique.pdb
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\bin\Debug\Data.dll
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\bin\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\bin\Debug\Data.pdb
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\bin\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csprojAssemblyReference.cache
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary3.baml
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary4.baml
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.baml
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.baml
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\Administrateur.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\Ajouter.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\ImageUserControlADMIN.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\LeaveConfirmWWDialog.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWindow.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\App.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.cache
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique_MarkupCompile.lref
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\App.baml
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\Accueil_Photos.baml
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\Administrateur.baml
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\Ajouter.baml
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\AjoutFiltre.baml
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary1.baml
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\Ressources\Dictionary2.baml
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\ImageUserControl.baml
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\PhotoDisplayWindow.baml
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.g.resources
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.Properties.Resources.resources
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.GenerateResource.cache
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CoreCompileInputs.cache
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe.manifest
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.application
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.csproj.CopyComplete
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.exe
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\ApplicationGraphique\obj\Debug\ApplicationGraphique.pdb

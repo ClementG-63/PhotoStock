@@ -1,0 +1,115 @@
+U:\C#\Projet\Galerie\bin\Debug\Galerie.dll
+U:\C#\Projet\Galerie\bin\Debug\Galerie.pdb
+U:\C#\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+U:\C#\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+U:\C#\Projet\Galerie\obj\Debug\Galerie.dll
+U:\C#\Projet\Galerie\obj\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\Galerie\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\Galerie\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\Galerie\obj\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Nouveau dossier\Projet\Galerie\obj\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\Galerie\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\Galerie\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\Galerie\obj\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Nouveaudossier\Projet\Galerie\obj\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJET C#\Projet\Galerie\bin\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJET C#\Projet\Galerie\bin\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJET C#\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+E:\Tout et NAWAK\PROJET C#\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+E:\Tout et NAWAK\PROJET C#\Projet\Galerie\obj\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJET C#\Projet\Galerie\obj\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJETCs\Projet\Galerie\bin\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJETCs\Projet\Galerie\bin\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJETCs\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+E:\Tout et NAWAK\PROJETCs\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+E:\Tout et NAWAK\PROJETCs\Projet\Galerie\obj\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJETCs\Projet\Galerie\obj\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Cs\Projet\Galerie\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Cs\Projet\Galerie\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Cs\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Cs\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Cs\Projet\Galerie\obj\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Cs\Projet\Galerie\obj\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Projectto\Projet\Galerie\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Projectto\Projet\Galerie\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Projectto\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Projectto\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Projectto\Projet\Galerie\obj\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Projectto\Projet\Galerie\obj\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\Galerie\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\Galerie\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\Galerie\obj\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Proyecto de mayo\Projet\Galerie\obj\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\Galerie\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\Galerie\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\Galerie\obj\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Boyz'sProjectino\Projet\Galerie\obj\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\zeafez\Projet\Galerie\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\zeafez\Projet\Galerie\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\zeafez\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\zeafez\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\zeafez\Projet\Galerie\obj\Debug\Galerie.dll
+C:\Users\clguyon\Documents\zeafez\Projet\Galerie\obj\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\aa\Projet\Galerie\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\aa\Projet\Galerie\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\aa\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\aa\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\aa\Projet\Galerie\obj\Debug\Galerie.dll
+C:\Users\clguyon\Documents\aa\Projet\Galerie\obj\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Projet\Projet\Galerie\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Projet\Projet\Galerie\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Projet\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Projet\Projet\Galerie\obj\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Projet\Projet\Galerie\obj\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Proje\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Proje\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Proje\Projet\Galerie\obj\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Proje\Projet\Galerie\obj\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Pro\Projet\Galerie\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Pro\Projet\Galerie\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Pro\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Pro\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Pro\Projet\Galerie\obj\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Pro\Projet\Galerie\obj\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\Galerie\bin\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\Galerie\bin\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\Galerie\obj\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\Galerie\obj\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Proj\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\Proj\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\Proj\Projet\Galerie\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Proj\Projet\Galerie\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\Proj\Projet\Galerie\obj\Debug\Galerie.dll
+C:\Users\clguyon\Documents\Proj\Projet\Galerie\obj\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\checout\Projet\Galerie\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\checout\Projet\Galerie\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\checout\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\checout\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\checout\Projet\Galerie\obj\Debug\Galerie.dll
+C:\Users\clguyon\Documents\checout\Projet\Galerie\obj\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\projicto\Projet\Galerie\bin\Debug\Galerie.dll
+C:\Users\clguyon\Documents\projicto\Projet\Galerie\bin\Debug\Galerie.pdb
+C:\Users\clguyon\Documents\projicto\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+C:\Users\clguyon\Documents\projicto\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+C:\Users\clguyon\Documents\projicto\Projet\Galerie\obj\Debug\Galerie.dll
+C:\Users\clguyon\Documents\projicto\Projet\Galerie\obj\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\Galerie\bin\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\Galerie\bin\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\Galerie\obj\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJETCs\projet12_2018_2019_c\CODE\Projet\Galerie\obj\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\Galerie\bin\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\Galerie\bin\Debug\Galerie.pdb
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\Galerie\obj\Debug\Galerie.csprojAssemblyReference.cache
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\Galerie\obj\Debug\Galerie.csproj.CoreCompileInputs.cache
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\Galerie\obj\Debug\Galerie.dll
+E:\Tout et NAWAK\PROJETCs\Projet\CODE\Projet\Galerie\obj\Debug\Galerie.pdb
